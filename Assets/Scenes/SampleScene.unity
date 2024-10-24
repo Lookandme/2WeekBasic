@@ -176,6 +176,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreButton: {fileID: 97832943}
+  _animator: {fileID: 1790456155}
   _score: 0
 --- !u!114 &97832943
 MonoBehaviour:
@@ -642,6 +643,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3f9e7f4ddebb24c4a9c7ddc52c255aaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scoreButton: {fileID: 97832942}
 --- !u!61 &1790456158
 BoxCollider2D:
   m_ObjectHideFlags: 0
